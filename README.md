@@ -1,6 +1,6 @@
 # YouTube_Trend
 
-![youtube](https://seeklogo.net/wp-content/uploads/2017/08/YouTube-logo-1-512x512.png)
+![youtube](https://i.pinimg.com/originals/09/0c/06/090c0658afb2350efff9c2ac705d5fe9.jpg)
 
 - **Dataset Source**
     - https://www.kaggle.com/datasnaek/youtube-new
